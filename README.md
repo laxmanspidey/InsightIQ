@@ -1,6 +1,11 @@
 
 # InsightIQ
 
+This project builds a RAG and Text-to-SQL query app in a single interface. We use:
+1.OpenAI to power the LLM capabilities
+2.LlamaIndex for orchestrating the RAG app
+3.SQL Database for storing the data from CSV files
+4.Streamlit to build the UI
 
 ## 🚀 Features
 
