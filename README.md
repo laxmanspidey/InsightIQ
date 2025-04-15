@@ -1,7 +1,6 @@
 
-# DailyDoseOfDataScience
+# InsightIQ
 
-**DailyDoseOfDataScience** is a lightweight Python-based toolkit designed to visually explore and interact with data science workflows. This project aims to help data science enthusiasts understand various processes and data pipelines via visual aids, scripts, and examples.
 
 ## 🚀 Features
 
@@ -14,7 +13,7 @@
 ## 🧱 Project Structure
 
 ```
-DailyDoseOfDataScience/
+InsightIQ/
 │
 ├── app.py                        # Application entry point
 ├── main.py                       # Core workflow logic
@@ -34,8 +33,8 @@ DailyDoseOfDataScience/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/DailyDoseOfDataScience.git
-cd DailyDoseOfDataScience
+git clone https://github.com/laxmanspidey/InsightIQ.git
+cd InsightIQ
 ```
 
 2. **Create a virtual environment (optional but recommended)**
@@ -78,10 +77,6 @@ You can explore the `test/` directory for test scripts and notebooks that demons
 ## 📂 Dataset
 
 The `city_stats.csv` file is a small dataset used within the workflow. You can replace or extend it with your own data.
-
-## 🧠 Inspiration
-
-This project is meant to give learners a **daily dose of hands-on data science** through interactive and visual workflow demonstrations.
 
 ## 📬 Contact
 
